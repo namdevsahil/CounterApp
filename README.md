@@ -1,1 +1,1 @@
-# CunterApp
+# CounterApp

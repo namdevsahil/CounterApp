@@ -25,7 +25,6 @@ incrementBtn.addEventListener("click", () => {
         displayvalue.innerText = value + 1;
 }
 });
-
 // for reset buttin click
 resetBtn.addEventListener("click", () => {
     displayvalue.innerText = 0;
